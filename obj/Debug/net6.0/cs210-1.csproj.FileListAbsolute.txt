@@ -1,0 +1,15 @@
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\bin\Debug\net6.0\cs210-1.exe
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\bin\Debug\net6.0\cs210-1.deps.json
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\bin\Debug\net6.0\cs210-1.runtimeconfig.json
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\bin\Debug\net6.0\cs210-1.dll
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\bin\Debug\net6.0\cs210-1.pdb
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\obj\Debug\net6.0\cs210-1.csproj.AssemblyReference.cache
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\obj\Debug\net6.0\cs210-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\obj\Debug\net6.0\cs210-1.AssemblyInfoInputs.cache
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\obj\Debug\net6.0\cs210-1.AssemblyInfo.cs
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\obj\Debug\net6.0\cs210-1.csproj.CoreCompileInputs.cache
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\obj\Debug\net6.0\cs210-1.dll
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\obj\Debug\net6.0\refint\cs210-1.dll
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\obj\Debug\net6.0\cs210-1.pdb
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\obj\Debug\net6.0\cs210-1.genruntimeconfig.cache
+C:\Users\eimor\Documents\BYUi\Fall 2022\cse210_prog_classes\cs210-1\obj\Debug\net6.0\ref\cs210-1.dll
